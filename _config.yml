@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD in Robotics, Intereseted in Swarm Robotics, Deep Multi-Agent Reinforcement Learning and fun stuffs"
   location         : "South Korea, United Kingdom"
-  email            : "seongin.na03@gmail.com
+  email            : "seongin.na03@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
