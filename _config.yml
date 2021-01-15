@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Miyembe's Swarm and Intelligence Blog"
+title                    : "Miyembe's Swarm & Intelligence Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Seongin Na"
@@ -279,3 +279,6 @@ defaults:
       comments: true
       share: true
       related: true
+        -
+          label: posts
+          url: /
