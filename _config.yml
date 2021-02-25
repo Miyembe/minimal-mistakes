@@ -279,3 +279,8 @@ defaults:
       comments: true
       share: true
       related: true
+      
+# Header
+header:
+  image: /assets/images/GwnaggyoForest.jpg
+  image_description: "Forest in Gwanggyosan, Suji-gu, Yongin-si, South Korea. My playground."
