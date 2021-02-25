@@ -8,9 +8,9 @@ The problem was I had wrong PyTorch. I needed to have torch that is available fo
 
 After reinstalling torch and vision and audio as below, the problem solved. 
 
-'''
+"""
 pip install torch===1.7.1+cu110 torchvision===0.8.2+cu110 torchaudio===0.7.2 -f
-'''
+"""
 
 I spent quite long time on reinstalling CUDA, changing symbolic link, etc. 
 
