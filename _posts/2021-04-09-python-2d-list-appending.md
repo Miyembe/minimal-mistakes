@@ -4,8 +4,8 @@ I tried to append each list in the nested list, but I found that lists in the ne
 # Solutions
 
 ```
-x = [list()]*num_robots
-x = [[] for i in range(num_robots)]
+x = [list()]*num_robots # No
+x = [[] for i in range(num_robots)] # Yes
 ```
 
 Both give same list shape but they work in a different manner.
