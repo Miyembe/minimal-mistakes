@@ -1,14 +1,13 @@
 # main links
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
+  - title: "Blog"
+    url: https://miyembe.github.io/
+  - title: "About"
+    url: /about/
+  - title: "Pepperoni"
+    url: /Pepperoni/
+  - title: "Cod"
+    url: /cod/
+  - title: "Ideas"
+    url: /ideas/
+  
