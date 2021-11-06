@@ -4,10 +4,11 @@ main:
     url: https://miyembe.github.io/
   - title: "About"
     url: /about/
-  - title: "Pepperoni"
-    url: /Pepperoni/
+  - title: "Paperoni"
+    url: categories/paperoni/
   - title: "Cod"
-    url: /cod/
+    url: categories/cod/
   - title: "Ideas"
-    url: /ideas/
-  
+    url: categories/ideas/
+  - title: "Categories"
+    url: /categories/
