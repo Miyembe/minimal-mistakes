@@ -1,3 +1,10 @@
+---
+title: "Jupyter Notebook Trouble Shooting"
+
+excerpt: "깃헙 블로그 포스팅 연습"
+---
+
+
 # Trouble Shooting
 
 # Jupyter notebook cannot import python modules installed in a conda environment
