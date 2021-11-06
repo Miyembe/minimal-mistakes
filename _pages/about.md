@@ -1,12 +1,12 @@
 ---
- title: "About this blog ..."
- permalink: /about/
- layout: single
- ---
+title: "About this blog ..."
+permalink: /about/
+layout: single
+---
 
- ## Miyembe's Blog!
+## Miyembe's Blog!
  
- ### What is Miyembe?
+### What is Miyembe?
 
 Miyembe means "mango" in Lusoga, one of the local launguages in Uganda.
 

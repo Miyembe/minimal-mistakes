@@ -3,7 +3,7 @@ main:
   - title: "Blog"
     url: https://miyembe.github.io/
   - title: "About"
-    url: /about/
+    url: about/
   - title: "Paperoni"
     url: categories/paperoni/
   - title: "Cod"
@@ -11,4 +11,4 @@ main:
   - title: "Ideas"
     url: categories/ideas/
   - title: "Categories"
-    url: /categories/
+    url: categories/
